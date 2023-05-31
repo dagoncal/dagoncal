@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h2></h2>
+<div align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=knoxvillie&show_icons=true&theme=&count_private=true"><img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knoxvillie&layout=compact">
+  </div>
+
 <!--
 **dagoncal/dagoncal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
